@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel 11 Product & Biodata Dashboard
 
 <<<<<<< HEAD
@@ -81,3 +82,8 @@ Follow these steps to set up and run the project locally:
 - ⚡ Laragon (for local development)
 
 ---
+=======
+This is my dashboard using Laravel 11.
+You need to install composer and php to your device. To run it, you need either XAMPP or Laragon.
+![Dashboard_Img](http://url/to/img.png)
+>>>>>>> 1ee00a6 (Create README.md)
