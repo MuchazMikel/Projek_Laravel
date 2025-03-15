@@ -1,3 +1,3 @@
-This is my dashboard using Laravel 11.
-You need to install composer and php to your device. To run it, you need either XAMPP or Laragon.
-![Dashboard_Img](http://url/to/img.png)
+This is my dashboard about biodata and produk using Laravel 11, I am using Laragon to run the file.
+
+![dashboard](https://github.com/user-attachments/assets/f543ad52-c8a4-4382-815b-a1b293585444)
