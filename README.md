@@ -1,11 +1,18 @@
 # Laravel 11 Product & Biodata Dashboard
 
+<<<<<<< HEAD
 This is a web-based dashboard for currently managing **biodata and product information**, built using **Laravel 11**. The project uses a clean **Bootstrap-based UI** template and provides CRUD functionality for managing product data. 
 
 I am using **Laragon** as the local development environment.
 
 The template I am using **https://startbootstrap.com/template/sb-admin**
 
+=======
+This is a web-based dashboard for managing **biodata and product information**, built using **Laravel 11**. The project features a clean **Bootstrap-based UI** and provides CRUD functionality for managing product data. 
+
+I am using **Laragon** as the local development environment.
+
+>>>>>>> 4659726 (Update2 README.md)
 ---
 
 ## Features 🚀
